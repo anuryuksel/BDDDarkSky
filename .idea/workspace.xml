@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e2449da-2ede-4972-9afa-7cfcaa37815c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1arWBou0gJn8Rb05pea34z4gU68" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnurDarkSky" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e2449da-2ede-4972-9afa-7cfcaa37815c" name="Default Changelist" comment="" />
+      <created>1587494059832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587494059832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="105" key="#Project_Structure" timestamp="1587496517195">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="105" key="#Project_Structure/0.23.1440.831/1440.23.1600.877@0.23.1440.831" timestamp="1587496517195" />
+    <state x="404" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587497136460">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="404" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831/1440.23.1600.877@0.23.1440.831" timestamp="1587497136460" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1588570949551">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/-1600.-290.1600.877@0.0.1440.900" timestamp="1588570949551" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1587534880190" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1600.877@0.0.1440.900" timestamp="1587696867836" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1588570949549">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900/-1600.-290.1600.877@0.0.1440.900" timestamp="1588570949549" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1587534880189" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1600.877@0.0.1440.900" timestamp="1587696867835" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1588570949549">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900/-1600.-290.1600.877@0.0.1440.900" timestamp="1588570949549" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1587534880188" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1600.877@0.0.1440.900" timestamp="1587696867834" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1588570949550">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900/-1600.-290.1600.877@0.0.1440.900" timestamp="1588570949550" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1600.900@0.0.1440.900" timestamp="1587534880190" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1600.877@0.0.1440.900" timestamp="1587696867836" />
+    <state x="208" y="23" width="1024" height="833" key="SettingsEditor" timestamp="1587494998520">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="208" y="23" width="1024" height="833" key="SettingsEditor/0.23.1440.833/1440.23.1600.877@0.23.1440.833" timestamp="1587494998520" />
+    <state x="374" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1587759077190">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1600.-313.1600.900@0.0.1440.900" timestamp="1587759077190" />
+    <state x="374" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.832/1440.23.1600.877@0.23.1440.832" timestamp="1587494065011" />
+  </component>
+</project>
